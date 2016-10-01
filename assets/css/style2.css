@@ -1,0 +1,14 @@
+.me img {
+	clear: both;
+	float: left;
+	width: 25%;
+	height: auto;
+	margin: 8px 20px 0px 22px;
+}
+
+.me p {
+	margin: 0px 10px 0px 20px;
+	line-height: 220%;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #777777;
+}

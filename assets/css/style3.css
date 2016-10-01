@@ -1,0 +1,27 @@
+form {
+	margin-left: 22px;
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	float: left;
+}
+
+.info {
+	opacity: 0.4;
+	padding: 5px 5px 5px 5px; 
+	width: 568px;
+	display: block;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.submitButton {
+	text-align: center;
+	background-color: #4aaaa5;
+	width: 100px;
+	height: 30px;
+	color: white;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 14px;
+	position: absolute;
+}
