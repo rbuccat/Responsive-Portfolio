@@ -75,11 +75,11 @@ body {
 	background-color: #ffffff;
 	width: 630px;
 	max-height: 850px;
-	min-height: 490px;
+	/*min-height: 490px;*/
 	height: auto;
-	overflow: auto;
+	overflow-y: visible;
 	padding-left: 5px;
-	padding-bottom: 20px;
+	padding-bottom: 70px;
 	border: 1px solid #dddddd;
 	margin-top: 100px;
 	margin-left: 140px;
@@ -110,10 +110,12 @@ body {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color: #4aaaa5;
 	border: 1px solid #dddddd;
-	top: 100px;
+	margin-top: 100px;
+	margin-left: 50px;
+	/*top: 100px;
 	right: 255px;
-	position: relative;
-	float: right;
+	position: relative;*/
+	float: left;
 }
 
 .sidebar h2 {
@@ -179,7 +181,7 @@ body {
 
 	.main-section {
 		width: 420px;
-		height: 580px;
+		max-height: 2000px;
 	}
 
 	.main-section hr {

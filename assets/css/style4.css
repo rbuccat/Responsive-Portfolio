@@ -95,20 +95,20 @@
     }
 
     #hover2 {
-        top: 50px;
+        margin-top: 50px;
         left: 23px;
     }
 
     #hover3 {
-        top: 100px;
+        margin-top: 25px;
     }
 
     #hover4 {
-        top: 150px;
+        margin-top: 50px;
         left: 23px;
     }
 
     #hover5 {
-        top: 200px;
+        margin-top: 25px;
     }
 }
