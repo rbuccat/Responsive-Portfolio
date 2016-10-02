@@ -28,12 +28,24 @@ form {
 
 @media screen and (max-width: 980px) {
 	.info {
-		width: 363px;
+		width: 199%;
 	}
 
 	.submitButton {
 		height: 50px;
 		width: 120px;
 		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.info {
+		width: 359%;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.info {
+		width: 270%;
 	}
 }

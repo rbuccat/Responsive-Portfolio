@@ -112,3 +112,81 @@
         margin-top: 25px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    #hover1 img,
+    #hover2 img,
+    #hover3 img,
+    #hover4 img,
+    #hover5 img {
+        height: 236px;
+        width: 313px;
+    }
+
+    #hover1,
+    #hover2,
+    #hover3,
+    #hover4,
+    #hover5 {
+        height: 236px;
+        width: 313px;
+    }
+    
+    #label1,
+    #label2,
+    #label3,
+    #label4,
+    #label5 {
+        width: 313px;
+        top: 140px;
+    }
+
+    #hover2 {
+        margin-left: 45px;
+        margin-top: 0px;
+    }
+
+    #hover4 {
+        margin-left: 45px;
+        margin-top: 25px;
+    }  
+}
+
+@media screen and (max-width: 640px) {
+    #hover1 img,
+    #hover2 img,
+    #hover3 img,
+    #hover4 img,
+    #hover5 img {
+        height: 406px;
+        width: 505px;
+    }
+
+    #hover1,
+    #hover2,
+    #hover3,
+    #hover4,
+    #hover5 {
+        height: 406px;
+        width: 505px;
+    }
+    
+    #label1,
+    #label2,
+    #label3,
+    #label4,
+    #label5 {
+        width: 505px;
+        top: 300px;
+    }
+
+    #hover2 {
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+
+    #hover4 {
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+}    
